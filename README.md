@@ -2,6 +2,8 @@
 
 An AI-powered full-stack website builder that allows users to generate websites from natural-language prompts, customize the generated code, and manage their projects through an interactive interface.
 
+---
+
 ## Live demo - 
 
 ## 🚀 Features
